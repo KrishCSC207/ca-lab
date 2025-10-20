@@ -9,7 +9,7 @@ public class Main {
                 .addLoginView()
                 .addSignupView()
                 .addLoggedInView()
-                .addSignupUseCase()
+                .addSignupUseCase()hdhs
                 .addLoginUseCase()
                 .addChangePasswordUseCase()
                 .build();
