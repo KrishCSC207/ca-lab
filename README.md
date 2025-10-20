@@ -109,7 +109,7 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 
 - `LogoutController.java` (tip: refer to the other controllers for similar code)
     -[x] TODO: Save the interactor in the instance variable.
-    -[ ] TODO: run the use case interactor for the logout use case
+    -[x] TODO: run the use case interactor for the logout use case
 
 > Note: there is no input data necessary for this use case.
 
@@ -124,7 +124,7 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 ---
 
 - `LogoutPresenter.java` (tip: refer to `SignupPresenter.java` for similar code)
-    -[ ] TODO: assign to the three instance variables.
+    -[x] TODO: assign to the three instance variables.
     -[ ] TODO: have prepareSuccessView update the LoggedInState
     -[ ] TODO: have prepareSuccessView update the LoginState
 
